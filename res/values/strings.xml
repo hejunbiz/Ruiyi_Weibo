@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Ruiyi_Weibo</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">锐意微博</string>
+    <string name="action_settings">设置</string>
     <string name="hello_world">Hello world!</string>
+    <string name="general_login">普通登录</string>
+    <string name="single_login">单点登录</string>
+    <string name="user_name">用户名</string>
 
 </resources>
